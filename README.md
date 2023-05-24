@@ -1,2 +1,2 @@
-# hamster-1
+# hamster
 about my website 
